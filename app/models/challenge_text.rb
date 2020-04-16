@@ -1,0 +1,2 @@
+class ChallengeText < ApplicationRecord
+end
